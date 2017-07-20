@@ -1,0 +1,2 @@
+# leagueoflegendsranked
+Ranked Stadistics
